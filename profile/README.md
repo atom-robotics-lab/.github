@@ -7,7 +7,7 @@
 
 
 
-- 🌱 &nbsp;We are the official robotics society of MAIT, Rohini
+- 🌱 &nbsp;ATOM is a robotics community based out of Delhi,India
 - 💬 &nbsp;We work on open source technologies such as ROS, ROS 2, Gazebo, Fusion 360 and much more !
 - 📫 &nbsp;How to reach Us: [@A.T.O.M_robotics](https://twitter.com/atom_robotics_) (Twitter) or [@a.t.o.m_robotics_lab](https://www.instagram.com/a.t.o.m_robotics_lab/) (Instagram) 
 - ⚡ &nbsp;Check out our socials for more insights on our cool projects.
