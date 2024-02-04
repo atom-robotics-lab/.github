@@ -1,6 +1,6 @@
 
 
-![Banner](https://github.com/atom-robotics-lab/.github/blob/main/atom.gif)
+![Banner](https://github.com/atom-robotics-lab/assets/blob/main/logo_1.png)
 
 <!-- ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
 
